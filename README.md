@@ -27,7 +27,7 @@ This project is a classic Snake game where the player controls a snake that move
 ## How to Play
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pragatishekhar19/snake-game.git
+    git clone https://github.com/pragatishekhar19/snake_game.git
     ```
 2. Compile the code:
     ```bash
