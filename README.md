@@ -29,17 +29,21 @@ This project is a classic Snake game where the player controls a snake that move
     ```bash
     git clone https://github.com/pragatishekhar19/snake_game.git
     ```
-2. Compile the code:
+2. change directory:
+    ```bash
+    cd snake_game
+    ```
+3. Compile the code:
     ```bash
     g++ snake_game.cpp -o snake_game
     ```
-3. Run the executable:
+4. Run the executable:
     ```bash
     ./snake_game
     ```
-4. Use the arrow keys to control the snake's direction.
-5. Eat the food ('X') to score points and grow the snake.
-6. Avoid running into the walls or the snake itself.
+5. Use the arrow keys to control the snake's direction.
+6. Eat the food ('X') to score points and grow the snake.
+7. Avoid running into the walls or the snake itself.
 
 ## Controls
 - UP arrow key: Move up
