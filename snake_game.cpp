@@ -155,7 +155,7 @@ int main(){
         draw();
         input();
         logic();
-        
+        Sleep(10);        
     }
 
     return 0;
