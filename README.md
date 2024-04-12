@@ -31,11 +31,11 @@ This project is a classic Snake game where the player controls a snake that move
     ```
 2. Compile the code:
     ```bash
-    g++ snake.cpp -o snake
+    g++ snake_game.cpp -o snake_game
     ```
 3. Run the executable:
     ```bash
-    ./snake
+    ./snake_game
     ```
 4. Use the arrow keys to control the snake's direction.
 5. Eat the food ('X') to score points and grow the snake.
